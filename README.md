@@ -1,4 +1,4 @@
-### Hacktoberfest Coding Questions
+# Hacktoberfest Coding Questions
 
 ## Hello!
 ## Welcome to Hacktoberfest 2020!
